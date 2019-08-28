@@ -1971,10 +1971,12 @@ input, select, textarea {
 			padding: 3em 0 3em 0;
 		}
 
-			.main.style1 h2 {
+			.main.style1 h1 {
 				font-size: 4.25em;
 				line-height: 1em;
 				color: #101820;
+				letter-spacing: -0.05em;
+				text-shadow: 1px 1px 0px #7A7A7A;
 			}
 
 			.main.style1 > .content {
@@ -2132,7 +2134,7 @@ input, select, textarea {
 				padding: 4em 15px 4em 15px;
 			}
 
-				.main.style1 h2 {
+				.main.style1 h1 {
 					font-size: 3em;
 				}
 
