@@ -1424,7 +1424,9 @@ input, select, textarea {
 
 /* Gallery */
 
-	.pseudolink {
+
+	span.pseudolink {
+	    	margin-right: 2rem;
 		cursor: pointer;
 		color: #009ca3;
 	}
